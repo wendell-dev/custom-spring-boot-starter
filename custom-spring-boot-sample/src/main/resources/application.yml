@@ -1,0 +1,3 @@
+greeting:
+  enable: true
+  members: 张三, 李四
